@@ -1,0 +1,4 @@
+# Backend owners
+/app/ @org/backend-team @fran
+# Infra / CI
+/.github/workflows/ @org/devops

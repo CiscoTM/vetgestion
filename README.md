@@ -1,2 +1,1 @@
-# vetgestion
-VetGestión ERP — backend FastAPI multitenant
+"# VetGesti�n ERP - Backend (FastAPI)" 
